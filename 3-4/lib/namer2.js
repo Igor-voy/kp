@@ -15,8 +15,8 @@ var _default = /*#__PURE__*/function () {
   function _default() {
     _classCallCheck(this, _default);
 
-    this.first = 'Danila';
-    this.last = 'Bukin';
+    this.first = 'Igor';
+    this.last = 'Voytenko';
   }
 
   _createClass(_default, [{
